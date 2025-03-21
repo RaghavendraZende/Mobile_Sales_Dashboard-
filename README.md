@@ -25,3 +25,6 @@ Filters: Interactive slicers for region, time, and product category
 Improved decision-making through real-time insights into sales trends.
 Enhanced visibility into customer preferences and product performance.
 Increased efficiency in identifying sales growth opportunities.
+
+## DataSet Used
+- <a href="https://github.com/RaghavendraZende/Mobile_Sales_Dashboard-/blob/main/Mobile%20Sales%20Dashboard.pbix">DataSet</a>
