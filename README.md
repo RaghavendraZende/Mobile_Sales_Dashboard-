@@ -2,6 +2,9 @@
 ## Project Overview
 The Mobile Sales Dashboard is an interactive Power BI project designed to visualize and analyze sales performance data for a mobile retail business. It provides key insights into revenue, sales trends, customer distribution, and product performance, helping stakeholders make data-driven decisions.
 
+## DataSet Used
+- <a href="https://github.com/RaghavendraZende/Mobile_Sales_Dashboard-/blob/main/Mobile%20Sales%20Dashboard.pbix">DataSet</a>
+
 ## Key Features
 Revenue Analysis: Displays total revenue, revenue by region, and revenue growth trends over time.
 Product Performance: Identifies top-selling and least-performing mobile models with sales distribution by brand.
@@ -25,6 +28,3 @@ Filters: Interactive slicers for region, time, and product category
 Improved decision-making through real-time insights into sales trends.
 Enhanced visibility into customer preferences and product performance.
 Increased efficiency in identifying sales growth opportunities.
-
-## DataSet Used
-- <a href="https://github.com/RaghavendraZende/Mobile_Sales_Dashboard-/blob/main/Mobile%20Sales%20Dashboard.pbix">DataSet</a>
