@@ -1,4 +1,4 @@
-# Mobile_Sales_Dashboard-
+# Mobile_Sales_Dashboard(Interactive Dashboard Creation Using Power Bi)
 🔥 Project Overview
 The Mobile Sales Dashboard is an interactive Power BI project designed to visualize and analyze sales performance data for a mobile retail business. It provides key insights into revenue, sales trends, customer distribution, and product performance, helping stakeholders make data-driven decisions.
 
