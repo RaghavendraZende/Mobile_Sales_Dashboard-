@@ -28,3 +28,6 @@ Filters: Interactive slicers for region, time, and product category
 Improved decision-making through real-time insights into sales trends.
 Enhanced visibility into customer preferences and product performance.
 Increased efficiency in identifying sales growth opportunities.
+
+## Dashboard 
+https://github.com/RaghavendraZende/Mobile_Sales_Dashboard-/blob/main/Screenshot%202025-03-13%20211133.png
